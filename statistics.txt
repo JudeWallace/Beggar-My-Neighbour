@@ -1,0 +1,44 @@
+Results based on 2 players
+shortest amount of turns: 32
+longest amount of turns: 511
+average amount of turns: 141
+
+Results based on 3 players
+shortest amount of turns: 38
+longest amount of turns: 688
+average amount of turns: 173
+
+Results based on 4 players
+shortest amount of turns: 44
+longest amount of turns: 698
+average amount of turns: 197
+
+Results based on 5 players
+shortest amount of turns: 44
+longest amount of turns: 483
+average amount of turns: 184
+
+Results based on 6 players
+shortest amount of turns: 59
+longest amount of turns: 738
+average amount of turns: 201
+
+Results based on 7 players
+shortest amount of turns: 53
+longest amount of turns: 916
+average amount of turns: 208
+
+Results based on 8 players
+shortest amount of turns: 70
+longest amount of turns: 579
+average amount of turns: 208
+
+Results based on 9 players
+shortest amount of turns: 53
+longest amount of turns: 515
+average amount of turns: 197
+
+Results based on 10 players
+shortest amount of turns: 63
+longest amount of turns: 624
+average amount of turns: 209
